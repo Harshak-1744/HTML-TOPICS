@@ -21,6 +21,7 @@ Basic HTML topics with challenges
  * C1 - Create a From Which covers all the necessary  attributes.
 
 ## Import 
+ *Import* in the context of HTML and web development broadly refers to bringing external resources, such as CSS stylesheets, JavaScript files, fonts, and multimedia content, into an HTML document.  <br>
 ## Elements
 ## Attributes
 ## Semantics
