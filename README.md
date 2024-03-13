@@ -28,16 +28,12 @@ Basic HTML topics with challenges
 
 
 ## Attributes
-  *Attributes* provide additional information about HTML elements. They are always specified in the start tag (or opening tag) of an element and usually come in name/value pairs like `name="value"`. For example, the `src` attribute of an `img` element specifies the path to the image you want to display.
+  *Attributes* provide additional information about HTML elements. They are always specified in the start tag (or opening tag) of an element and usually come in name/value pairs like `name="value"`. For example, the `src` attribute of an `img` element specifies the path to the image you want to display. <br>
 
 ## Semantics
   *Semantics* in HTML refers to the meaning of the elements and attributes used to build web pages. Semantic HTML uses elements that accurately describe their purpose and content, which helps with accessibility, search engine optimization, and maintainability of the code. Examples of semantic elements include `<article>`, `<footer>`, `<header>`, and `<nav>`. <br>
 
-## Multimedia
-## Block Elements
 
-
-## Semantics
 
 
 ## Multimedia
