@@ -33,11 +33,8 @@ Basic HTML topics with challenges
 ## Semantics
   *Semantics* in HTML refers to the meaning of the elements and attributes used to build web pages. Semantic HTML uses elements that accurately describe their purpose and content, which helps with accessibility, search engine optimization, and maintainability of the code. Examples of semantic elements include `<article>`, `<footer>`, `<header>`, and `<nav>`. <br>
 
-
-
-
 ## Multimedia
-*Multimedia* in HTML refers to the incorporation of media content such as images, audio, and video into web pages. This is achieved through elements like `<img>` for images, `<audio>` for audio content, and `<video>` for video content. These elements allow for the embedding of media in web pages, enhancing the user experience with visual and auditory content.
+*Multimedia* in HTML refers to the incorporation of media content such as images, audio, and video into web pages. This is achieved through elements like `<img>` for images, `<audio>` for audio content, and `<video>` for video content. These elements allow for the embedding of media in web pages, enhancing the user experience with visual and auditory content. <br>
 
 ## Block Elements
 *Block elements* are HTML elements that typically start on a new line and stretch out as wide as their parent element allows, creating a "block." Examples of block elements include `<div>`, `<p>`, `<header>`, and `<footer>`. They are the foundation for creating the structure and layout of web pages.
