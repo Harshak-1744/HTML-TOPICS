@@ -22,20 +22,23 @@ Basic HTML topics with challenges
 
 ## Import 
  *Import* in the context of HTML and web development broadly refers to bringing external resources, such as CSS stylesheets, JavaScript files, fonts, and multimedia content, into an HTML document.  <br>
+
 ## Elements
+  In HTML, *elements* are the building blocks of web pages. An element can be a heading, a paragraph, a link, an image, etc. Elements are represented by tags, which can have attributes to provide additional information about the element's content or behavior. <br>
+
+
 ## Attributes
+  *Attributes* provide additional information about HTML elements. They are always specified in the start tag (or opening tag) of an element and usually come in name/value pairs like `name="value"`. For example, the `src` attribute of an `img` element specifies the path to the image you want to display.
+
 ## Semantics
+  *Semantics* in HTML refers to the meaning of the elements and attributes used to build web pages. Semantic HTML uses elements that accurately describe their purpose and content, which helps with accessibility, search engine optimization, and maintainability of the code. Examples of semantic elements include `<article>`, `<footer>`, `<header>`, and `<nav>`. <br>
+
 ## Multimedia
 ## Block Elements
 
-## Elements
-In HTML, *elements* are the building blocks of web pages. An element can be a heading, a paragraph, a link, an image, etc. Elements are represented by tags, which can have attributes to provide additional information about the element's content or behavior.
-
-## Attributes
-*Attributes* provide additional information about HTML elements. They are always specified in the start tag (or opening tag) of an element and usually come in name/value pairs like `name="value"`. For example, the `src` attribute of an `img` element specifies the path to the image you want to display.
 
 ## Semantics
-*Semantics* in HTML refers to the meaning of the elements and attributes used to build web pages. Semantic HTML uses elements that accurately describe their purpose and content, which helps with accessibility, search engine optimization, and maintainability of the code. Examples of semantic elements include `<article>`, `<footer>`, `<header>`, and `<nav>`.
+
 
 ## Multimedia
 *Multimedia* in HTML refers to the incorporation of media content such as images, audio, and video into web pages. This is achieved through elements like `<img>` for images, `<audio>` for audio content, and `<video>` for video content. These elements allow for the embedding of media in web pages, enhancing the user experience with visual and auditory content.
